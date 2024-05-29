@@ -1,0 +1,1 @@
+FROM myepuri/elasticsearch_vector:latest
